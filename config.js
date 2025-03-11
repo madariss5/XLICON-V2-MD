@@ -49,10 +49,10 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'BLACKSKY-MD'
+global.botname = '𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻'
 global.premium = 'true'
-global.packname = '𝙏𝙚𝙖𝙢 𝙓𝙇𝙄𝘾𝙊𝙉' 
-global.author = '@𝘮𝘥𝘹𝘭𝘪𝘤𝘰𝘯𝘷2' 
+global.packname = '𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻' 
+global.author = '@𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻' 
 global.menuvid = 'https://files.catbox.moe/yu3j54.mp4'
 global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
